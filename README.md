@@ -1,5 +1,5 @@
 # niftianon
-Anonymizer for NIFTI format images
+Anonymiser for NIFTI format images
 
 
 ## Installation
