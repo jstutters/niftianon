@@ -1,15 +1,23 @@
-# niftianon
-Anonymiser for NIFTI format images
+niftianon
+=========
+
+Anonymiser for NIFTI format images.
 
 
-## Installation
+Installation
+------------
+
+.. code::
 
     git clone https://github.com/jstutters/niftianon
     cd niftianon
     pip install .
 
 
-## Usage
+Usage
+-----
+
+.. code::
 
     niftianon [path to identifiable image] [path to anonymised image]
 
