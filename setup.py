@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='niftianon',
-    version='0.1.0',
+    version='0.1.1',
     packages=['niftianon'],
     zip_safe=True,
     author='Jon Stutters',
